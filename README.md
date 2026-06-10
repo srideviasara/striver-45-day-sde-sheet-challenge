@@ -8,6 +8,7 @@
 | [0073-set-matrix-zeroes](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0200-number-of-islands) |
+| [0435-non-overlapping-intervals](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0118-pascals-triangle) |
+| [0435-non-overlapping-intervals](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +39,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0200-number-of-islands) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0435-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
