@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0435-non-overlapping-intervals) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
