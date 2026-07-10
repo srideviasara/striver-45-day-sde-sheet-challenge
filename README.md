@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0073-set-matrix-zeroes) |
@@ -34,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0031-next-permutation) |
 ## Depth-First Search
 |  |
