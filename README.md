@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0283-move-zeroes) |
 ## Depth-First Search
 |  |
 | ------- |
