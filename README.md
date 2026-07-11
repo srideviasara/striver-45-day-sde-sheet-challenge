@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
@@ -22,6 +23,7 @@
 | [0001-two-sum](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -70,4 +73,13 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
