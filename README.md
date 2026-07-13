@@ -17,6 +17,7 @@
 | [0268-missing-number](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0435-non-overlapping-intervals) |
+| [0485-max-consecutive-ones](https://github.com/srideviasara/striver-45-day-sde-sheet-challenge/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
